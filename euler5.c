@@ -1,11 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
-
-
-
-
+	/*
 	int gcd(int a, int b){
 		if(b==0) return a;
 		return gcd(b,a%b);
@@ -19,7 +15,6 @@ int main() {
 			}	
 		return 1;
 	}	
-
 
 	int produkt=20;
 	int stevec=0;
@@ -36,7 +31,7 @@ int main() {
 	
 	printf(" to stevilo je %i.\n",produkt);
 	printf(" stevec je %i.\n",stevec);
-
+	*/
 
 	int m=1;
 	int v=1;
